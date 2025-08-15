@@ -14,7 +14,6 @@ It fetches historical price data, simulates different portfolio allocations, and
 - **Risk & Return Metrics**:
   - **Sharpe Ratio** (risk-adjusted returns)
   - **Max Drawdown** (largest drop from peak value)
-- **Customizable Inputs** — Change tickers, weights, and time periods easily.
 
 ---
 
