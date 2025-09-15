@@ -12,7 +12,7 @@ price_data = yf.download(
     tickers,
     start="2019-01-01",
     end="2025-08-01"
-)["Close"]  # ✅ Use 'Close' for crypto
+)["Close"]  
 
 price_data.dropna(inplace=True)
 
